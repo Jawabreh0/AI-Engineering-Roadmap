@@ -17,12 +17,25 @@
 
 2. Machine Learning Fundamentals:
 * Introl to ML:
-      - Definition and Types of Machine Learning
-      - Supervised Learning, Unsupervised Learning, Reinforcement Learning
+    * Definition and Types of Machine Learning
+    * Supervised Learning, Unsupervised Learning, Reinforcement Learning
+    * Bias-Variance Tradeoff, Cross-validation
 * Linear Regression:
+    * Simple and Multiple Linear Regression
+    * Gradient Descent
+    * Regularized Regression (Lasso, Ridge)
 * Classification and Clustering:
+    * Logistic Regression
+    * Decision Trees and Random Forests
+    * Support Vector Machines (SVM)
+    * K-Means Clustering
 * Evaluation Metrics:
+    * Accuracy, Precision, Recall, F1 Score
+    * Confusion Matrix
+    * ROC-AUC, Precision-Recall Curves
 * Technologies:
+    * Scikit-learn for machine learning algorithms
+    * Matplotlib, Seaborn for data visualization
 4. Deep Learning Fundamentals:
 5. Computer Vision Basics:
 6. Advanced Computer Vision:
