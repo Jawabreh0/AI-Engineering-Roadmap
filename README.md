@@ -16,16 +16,23 @@
      * Jupyter Notebooks
 
 2. Machine Learning Fundamentals:
-3. Deep Learning Fundamentals:
-4. Computer Vision Basics:
-5. Advanced Computer Vision:
-6. Advanced Deep Learning:
-7. OpenCV and Image Manipulation:
-8. Real-world Applications:
-9. Advanced Topics and Technologies:
-10. Stay Updated:
-11. Networking and Soft Skills:
-12. Build a Portfolio:
-13. Apply for Jobs:
-14. Continuous Learning:
+* Introl to ML:
+      - Definition and Types of Machine Learning
+      - Supervised Learning, Unsupervised Learning, Reinforcement Learning
+* Linear Regression:
+* Classification and Clustering:
+* Evaluation Metrics:
+* Technologies:
+4. Deep Learning Fundamentals:
+5. Computer Vision Basics:
+6. Advanced Computer Vision:
+7. Advanced Deep Learning:
+8. OpenCV and Image Manipulation:
+9. Real-world Applications:
+10. Advanced Topics and Technologies:
+11. Stay Updated:
+12. Networking and Soft Skills:
+13. Build a Portfolio:
+14. Apply for Jobs:
+15. Continuous Learning:
 
