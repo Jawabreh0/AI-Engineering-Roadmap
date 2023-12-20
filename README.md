@@ -2,7 +2,7 @@
 
 ![roadmao](ai-engineering.jpg)
 
-1. Foundational Knowledge:
+## 1. Foundational Knowledge:
 * Mathematics:
      * Linear Algebra:
           * Vectors and Matrices:
@@ -15,7 +15,7 @@
      * Pandas for data manipulation
      * Jupyter Notebooks
 
-2. Machine Learning Fundamentals:
+## 2. Machine Learning Fundamentals:
 * Introl to ML:
     * Definition and Types of Machine Learning
     * Supervised Learning, Unsupervised Learning, Reinforcement Learning
@@ -36,7 +36,7 @@
 * Technologies:
     * Scikit-learn for machine learning algorithms
     * Matplotlib, Seaborn for data visualization
-3. Deep Learning Fundamentals:
+## 3. Deep Learning Fundamentals:
 * Neural Networks Basics:
     * Perceptrons and Activation Functions
     * Feedforward Neural Networks
@@ -54,7 +54,7 @@
 * Optimization Algorithms:
     * Adam, RMSprop, SGD
 
-4. Computer Vision Basics:
+## 4. Computer Vision Basics:
 * Image Processing:
     * Basics of Digital Image Processing
     * Convolution and Filtering
@@ -68,7 +68,7 @@
     * Introduction to Image Classification
     * Building Simple Image Classifiers
  
-5. Advanced Computer Vision:
+## 5. Advanced Computer Vision:
 * Convolutional Neural Networks (CNNs):
     * Architecture of CNNs
     * Transfer Learning with Pre-trained Models
