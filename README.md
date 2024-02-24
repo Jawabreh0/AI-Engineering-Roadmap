@@ -1,5 +1,7 @@
-# AI Engineering Roadmap - Computer Vision Path
+# AI Engineering Roadmap 
 
+## Computer Vision Path
+  
 ![roadmao](ai-engineering.jpg)
 
 ## 1. Foundational Knowledge:
