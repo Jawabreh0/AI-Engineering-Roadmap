@@ -171,3 +171,5 @@
 * Specializations:
     * Robotics and Computer Vision Integration
     * Biomedical Image Analysis
+
+## Natural Language Processing (NLP) Path
