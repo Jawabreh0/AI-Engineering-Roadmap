@@ -1,6 +1,4 @@
-# AI Engineering Roadmap 
-
-## Computer Vision Path
+# Computer Vision Path
   
 ![roadmao](ai-engineering.jpg)
 
@@ -172,4 +170,80 @@
     * Robotics and Computer Vision Integration
     * Biomedical Image Analysis
 
-## Natural Language Processing (NLP) Path
+# Natural Language Processing (NLP) Path
+
+## 1. Foundational Knowledge:
+* Mathematics:
+     * Linear Algebra:
+          * Vectors and Matrices:
+          * Eigenvalues and Eigenvectors
+     * Calculus:
+          * Multivariate Calculus
+          * Differentiation and integration
+      * Optimization Techniques
+* Advanced Python:
+     * NumPy, SciPy for numerical computing
+     * Pandas for data manipulation
+     * Jupyter Notebooks
+* Machine Learning Basics:
+     * Supervised Learning
+     * Unsupervised Learning
+     * Neural Networks Basics
+     * Evaluation Metrics (e.g., Precision, Recall)
+
+## 2. NLP Basics:
+* Language and Linguistics:
+    * Phonetics and Phonology
+    * Syntax and Semantics
+    * Pragmatics
+    * Morphology
+* Text Preprocessing Techniques:
+    * Tokenization
+    * Stemming and Lemmatization
+    * POS Tagging
+    * NER (Named Entity Recognition)
+*  Basics of Classic NLP Algorithms:
+    * n-gram Models
+    * TF-IDF
+    * Latent Semantic Analysis (LSA)
+    * Word2Vec, GloVe
+
+## 3. Advanced NLP and Deep Learning:
+* Deep Learning for NLP:
+    * Recurrent Neural Networks (RNNs)
+    * Long Short-Term Memory Networks (LSTMs)
+    * Gated Recurrent Units (GRUs)
+    * Transformer Models
+* Attention Mechanisms and Transformers:
+    * Understanding Attention Mechanisms
+    * Transformer Architecture
+    * BERT and its Variants
+    * GPT series, Transformer-XL, XLNet
+* Advanced NLP Techniques:
+    * Sequence-to-Sequence Models
+    * Neural Machine Translation
+    * Text Summarization
+    * Question Answering Systems
+
+## 4. NLP Applications and Frameworks:
+* NLP Applications:
+    * Chatbots
+    * Sentiment Analysis
+    * Text Classification
+    * Speech Recognition
+* NLP Frameworks and Tools:
+    * Natural Language Toolkit (NLTK)
+    * spaCy
+    * Hugging Face's Transformers
+    * TensorFlow and PyTorch for NLP
+
+## 5. Advanced Topics and Future Directions:
+* Cutting-edge Research in NLP:
+    * Few-shot Learning
+    * Transfer Learning in NLP
+    * Cross-lingual Learning
+    * Neural Symbolic Learning
+* Industry Trends and Future Directions:
+    * Voice-assisted Devices
+    * NLP in Healthcare
+    * Automated Journalis
