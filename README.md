@@ -188,8 +188,10 @@
 * Machine Learning Basics:
      * Supervised Learning
      * Unsupervised Learning
-     * Neural Networks Basics
+     * Feature Engineering
      * Evaluation Metrics (e.g., Precision, Recall)
+     * Linear Regression, Logistic Regression, Decision Trees, SVM, KNN
+     * Dimensionality Reduction Techniques
 
 ## 2. NLP Basics:
 * Language and Linguistics:
@@ -210,10 +212,12 @@
 
 ## 3. Advanced NLP and Deep Learning:
 * Deep Learning for NLP:
+    * Word Embedding
     * Recurrent Neural Networks (RNNs)
     * Long Short-Term Memory Networks (LSTMs)
     * Gated Recurrent Units (GRUs)
     * Transformer Models
+    * CNNs for Tex
 * Attention Mechanisms and Transformers:
     * Understanding Attention Mechanisms
     * Transformer Architecture
@@ -243,6 +247,7 @@
     * Transfer Learning in NLP
     * Cross-lingual Learning
     * Neural Symbolic Learning
+    * Federated Learning
 * Industry Trends and Future Directions:
     * Voice-assisted Devices
     * NLP in Healthcare
